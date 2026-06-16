@@ -11,4 +11,5 @@ A disciplined, 3-week technical sprint to transition from absolute zero to pract
 
 ## 📅 Daily Log Index
 * [Day 01 (June 15): Launching the Sprint & Linux Intro](./logs/day-01.md)
-* [Day 02 (June 16): Network Fundamentals](./logs/day-02.md)
+* [Day 02 (June 16): OSI Framework, Cross-OS CLI Foundations & Web Security](./logs/day-02.md)
+
