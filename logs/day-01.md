@@ -4,12 +4,10 @@
 
 ## 🧠 Concepts Learned
 
-### 1. Security Architecture & The CIA Triad
-* **Confidentiality:** Preventing unauthorized access to sensitive data.
-* **Integrity:** Ensuring data remains unaltered, complete, and trustworthy during transmission.
-* **Availability:** Guaranteeing system uptime and access for authorized entities.
-* Analyzed the distinct operational methodologies of **Red Teaming** (Offensive/Exploitation) and **Blue Teaming** (Defensive/Mitigation).
-
+### 1. Introductiong to Cyber Security
+* **Offensive security:** This approach involves actively searching for vulnerabilities in systems, networks, or applications to understand how an attacker might exploit them.
+* **Defencive security:** This approach focuses on protecting, monitoring, and responding to threats.
+  
 ### 2. Local Area Network (LAN) Architecture
 * **LAN Definition:** A network topology restricted to a localized physical area (e.g., a home, office, or lab) connecting local devices together.
 * **Core Network Hardware:**
@@ -22,7 +20,6 @@
 
 ## 🛠️ Practical Tasks Completed
 * Configured the TryHackMe terminal workspace and initiated the **Pre-Security** learning path.
-* Completed the introductory security modules, assessing historical data breach scenarios.
 * Completed the **Intro to LAN** interactive module, mapping how a data packet travels from a host device through a local switch to reach a local gateway router.
 
 ## 🚀 Obstacles & Breakthroughs
@@ -30,4 +27,4 @@
 * *Breakthrough:* I isolated their functions logically. A switch acts like an indoor intercom system within a single building (LAN) using MAC addresses, while a router acts like the postal service delivering letters between completely different cities (WAN) using IP addresses. This structural distinction made the entire architecture click.
 
 ## 📝 Tomorrow's Goal
-Transition from theoretical networking to hands-on host management by launching **Linux Fundamentals Part 1** on TryHackMe to master Command Line Interface (CLI) navigation.
+Conclude the final segment of Network Fundamentals and learn how the web works. 
