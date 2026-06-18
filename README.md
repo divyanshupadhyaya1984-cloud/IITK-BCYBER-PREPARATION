@@ -7,6 +7,27 @@ A disciplined, 3-week technical sprint to transition from absolute zero to pract
 * **Current Status:** Day 1 — Environment Setup & First Steps
 * **Primary Platforms:** TryHackMe, picoCTF
 
+<table>
+  <tr>
+    <th align="center">🛡️ TryHackMe Status</th>
+    <th align="center">🎯 picoCTF Metrics</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://tryhackme-badges.s3.amazonaws.com/divyansh.upadhyay.alok1984.png" alt="TryHackMe Profile Badge" width="260">
+      <br><br>
+      👉 <a href="https://tryhackme.com/p/divyansh.upadhyay.alok1984" target="_blank">Verify Live THM Profile</a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/picoCTF-Arena%20Active-orange?style=for-the-badge&logo=target" alt="picoCTF State">
+      <br><br>
+      <code>🎯 Level: Active Competitor</code>
+      <br><br>
+      👉 <a href="https://play.picoctf.org/users/divyansh2007" target="_blank">Verify Live picoCTF Profile</a>
+    </td>
+  </tr>
+</table>
+
 ---
   
 ## 🏆 Verifiable Badges & Milestones
