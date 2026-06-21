@@ -41,7 +41,9 @@ A disciplined, 3-week technical sprint to transition from absolute zero to pract
 * [Day 02 (June 16): OSI Framework, Cross-OS CLI Foundations & Web Security](./logs/day-02.md)
 * [Day 02 (June 17): Data Representation, Core Scripting Primitives, SQL Databases, and Cryptographic Security Frameworks](./logs/day-03.md)
 * [Day 04 (June 18): Applied Exploitation — CLI Automation, String Processing & Python Cracking Labs](./logs/day-04.md)
-* [Day 06 (June 21): Foundation Consolidations — Python Syntax Mapping and CLI Diagnostics](./logs/day-06.md)
 * [Day 05 (June 20): Advanced Reverse Engineering — Password Cracking Logic, Hashing Vectors, and Deep Archive Traversal](./logs/day-05.md)
+* [Day 06 (June 21): Foundation Consolidations — Python Syntax Mapping and CLI Diagnostics](./logs/day-06.md)
+* [Day 07 (June 22): Script Development — Custom Security Tools, Log Analysis, and Linux Environment Troubleshooting](./logs/day-07.md)
+
     
 
