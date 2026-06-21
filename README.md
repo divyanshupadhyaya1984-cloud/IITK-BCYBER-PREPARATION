@@ -45,5 +45,20 @@ A disciplined, 3-week technical sprint to transition from absolute zero to pract
 * [Day 06 (June 21): Foundation Consolidations — Python Syntax Mapping and CLI Diagnostics](./logs/day-06.md)
 * [Day 07 (June 22): Script Development — Custom Security Tools, Log Analysis, and Linux Environment Troubleshooting](./logs/day-07.md)
 
+---
+
+## 🛠️ Developed Security & Automation Projects
+Practical tools constructed from scratch to demonstrate low-level logic execution, automation scripts, and CLI operational control.
+
+### 1. 🚀 Project 1: Password Strength Entropy Evaluator
+* **Core Technology:** `Python` / 'Linux CLI'
+* **Functional Logic:** Analyzes user-input string patterns to calculate password entropy data and test overall security viability against modern complexity requirements.
+* **Source Code:** [Access Functional Script Execution Layer](./projects/password_checker.py)
+
+### 2. ⚡ Project 2: Active System Log Auditor & Security Parser
+* **Core Technology:** `Python` / `Linux CLI`
+* **Functional Logic:** Automatically parses operating system authentication logs to flag failure patterns, adapted dynamically to handle modern binary subsystems and compressed dictionary file inputs.
+* **Source Code:** [Access Functional Script Execution Layer](./projects/log_analyzer.py)
+
     
 
