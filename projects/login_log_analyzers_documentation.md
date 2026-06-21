@@ -61,8 +61,8 @@ Follow these exact terminal commands sequentially inside Kali Linux to deploy, r
 ### 1. Workspace Initialization
 ```bash
 # Set up project directory tree
-mkdir -p ~/IITK_Project/data
-cd ~/IITK_Project
+mkdir -p ~/_Project/data
+cd ~/_Project
 
 # Create script file (Paste the parser core source code inside analyzer.py)
 touch analyzer.py
