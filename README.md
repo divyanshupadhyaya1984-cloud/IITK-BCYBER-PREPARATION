@@ -53,7 +53,7 @@ Practical tools constructed from scratch to demonstrate low-level logic executio
 ### 1. 🚀 Project 1: Password Strength Entropy Evaluator
 * **Core Technology:** `Python` / 'Linux CLI'
 * **Functional Logic:** Analyzes user-input string patterns to calculate password entropy data and test overall security viability against modern complexity requirements.
-* **Source Code:** [Access Functional Script Execution Layer](./projects/password_checker.py)
+* **Source Code:** [Access Functional Script Execution Layer](./projects/password_strength_checker.py)
 * **Documentation of Project and my path:** [Access file](./projects/password_strength_checker_documentation.md) 
 
 ### 2. ⚡ Project 2: Active System Log Auditor & Security Parser
