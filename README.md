@@ -46,6 +46,7 @@ A disciplined, 3-week technical sprint to transition from absolute zero to pract
 * [Day 07 (June 22): Script Development — Custom Security Tools, Log Analysis, and Linux Environment Troubleshooting](./logs/day-07.md)
 * [Day 08 (June 23): CLI Foundations — Windows Command-Line Mechanics and Environment Controls](./logs/day-08.md)
 * [Day 09 (June 24): CLI Solidification — Advanced Windows CMD and PowerShell Environment Mechanics](./logs/day-09.md)
+* [Day 11 (June 26): Core Systems & Infrastructure — Linux Shells, PowerShell Completion, and OSI Networking Foundations](./logs/day-11.md)
 
 ---
 
