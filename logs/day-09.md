@@ -17,4 +17,4 @@
 * Consolidated command muscle-memory to ensure fast, self-contained system navigation without relying on external web references.
 
 ## 🚀 Tomorrow's Goal
-Transition directly into analyzing web data layers by mapping out browser developer tool (`F12`) workflows for API packet tracking.
+Complete Unix based shells.
