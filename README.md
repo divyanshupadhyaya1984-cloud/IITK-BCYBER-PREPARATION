@@ -48,6 +48,7 @@ A disciplined, 3-week technical sprint to transition from absolute zero to pract
 * [Day 09 (June 24): CLI Solidification — Advanced Windows CMD and PowerShell Environment Mechanics](./logs/day-09.md)
 * [Day 10 (June 26): Core Systems & Infrastructure — Linux Shells, PowerShell Completion, and OSI Networking Foundations](./logs/day-10.md)
 * [Day 12 (June 27): Infrastructure & Application Layers — Routing Dynamics and Core Network Protocol Suites](./logs/day-12.md)
+* [Day 13 (June 29): Deep Packet Inspection — Command-Line and Graphical Traffic Analysis Utilities](./logs/day-13.md)
 
 ---
 
